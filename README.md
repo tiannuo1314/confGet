@@ -1,0 +1,2 @@
+# confGet
+get config
